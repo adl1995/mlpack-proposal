@@ -23,7 +23,7 @@ Student information
 
 ### Experience and Background
 ##### Programming language proficiency
-```
+
 | Language       | Proficiency | Experience (years) |
 |:--------------:|:-----------:|:------------------:|
 | Python         | 4           | 3                  |
@@ -32,7 +32,7 @@ Student information
 | Assembly (x86) | 2           | < 1                |
 | JavaScript     | 3           | 2                  |
 | LaTeX          | 1           | 1                  |
-```
+
 ##### Google Summer of Code 2017
 I was a participant in Google Summer of Code 2017 [1] with the OpenAstronomy organization. My project involved the design and development of a Python client for Hierarchical Progressive Surveys (HiPS) [2], which is a scheme for describing astronomical images, source catalogues, and three-dimensional data cubes to manage large volumes of heterogeneous data. The package [3] enabled users to view astronomical figures in an interactive environment. I also maintained an extensive blog [4] throughout this period.
 
@@ -50,11 +50,10 @@ My interest in machine learning sparked from taking my college courses Data Mini
 Apart from machine learning, I am also quite enthusiastic about image process. My final year project involves creating a structure from motion pipeline using a monocular camera [11]. To learn all the intricate step involved in this, we followed the Robotics: Perception course on Coursera. I have implemented numerous image processing filters (Gaussian, Sobel, Prewitt, Laplacian), edge detectors (Canny, Marr Hildreth), morphological operators (Convex hulling, Erosion, Dilation), object detectors (Generalized Hough transform, simple convolution), and seam carvers. These were implemented from scratch making use of  the ``NumPy`` Python library [12], [13].
 
 ### References
-[2] https://www.aanda.org/articles/aa/pdf/2015/06/aa26075-15.pdf
-[5] https://github.com/opencv/opencv/commits/master?author=adl1995
-[6] https://github.com/libLAS/libLAS/commits/master?author=adl1995
-[7] https://github.com/siemens/jailhouse/commits/next?author=adl1995
-[8] https://github.com/jupyter/notebook/commits/master?author=adl1995
-[9] https://github.com/axios/axios/issues/853
-[10] https://adl1995.github.io/an-overview-of-activation-functions-used-in-neural-networks.html
-
+[2] https://www.aanda.org/articles/aa/pdf/2015/06/aa26075-15.pdf \
+[5] https://github.com/opencv/opencv/commits/master?author=adl1995 \
+[6] https://github.com/libLAS/libLAS/commits/master?author=adl1995 \
+[7] https://github.com/siemens/jailhouse/commits/next?author=adl1995 \
+[8] https://github.com/jupyter/notebook/commits/master?author=adl1995 \
+[9] https://github.com/axios/axios/issues/853 \
+[10] https://adl1995.github.io/an-overview-of-activation-functions-used-in-neural-networks.html \
